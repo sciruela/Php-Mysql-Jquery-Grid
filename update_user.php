@@ -3,7 +3,7 @@
 $id = intval($_REQUEST['id']);
 $firstname = $_REQUEST['first_name'];
 $lastname = $_REQUEST['last_name'];
-$address = $_REQUES['address'];
+$address = $_REQUEST['address'];
 $phone = $_REQUEST['phone'];
 $email = $_REQUEST['email'];
 
